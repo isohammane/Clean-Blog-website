@@ -2,9 +2,10 @@
 
 To run the website 
 1) install the requirements
-   '''pip install -r requirements.txt'''
+   ```pip install -r requirements.txt```
 2) make migration
-   '''python manage.py makemigrations
-   python manage.py migrate '''
+   ```
+   python manage.py makemigrations
+   python manage.py migrate  ```
 3 ) create a superuser for adding the Blogs
-   ''' python manage.py createsuperuser '''
+   ```python manage.py createsuperuser ```
