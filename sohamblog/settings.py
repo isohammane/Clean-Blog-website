@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-c(&aej)dc)mnxwhp@ops-u%-0=llczqxn5h1wj1ntnvg*cf+a@'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG=False
+DEBUG=True
 
-ALLOWED_HOSTS = ['.sohammane.online',,'127.0.0.1']
+ALLOWED_HOSTS = []
 
 
 
